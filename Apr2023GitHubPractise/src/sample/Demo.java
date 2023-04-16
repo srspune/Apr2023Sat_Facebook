@@ -6,6 +6,7 @@ public class Demo {
 	{
 	    System.out.println("Hi, these is my first GitHub PUSH");
 	    System.out.println("Hi");
+            System.out.println("changes made in webpage");
 		
 
 	}
